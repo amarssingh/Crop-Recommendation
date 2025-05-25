@@ -28,7 +28,7 @@ This project helps farmers choose the most suitable crop based on soil and clima
 
 ```bash
 ├── app.py                # Streamlit app
-├──Untitled.ipynb         # Notebook (for reference or code transfer)
+├── Untitled.ipynb         # Notebook (for reference or code transfer)
 ├── model.pkl             # Trained machine learning model
 ├── minmaxscaler.pkl      # MinMaxScaler for input preprocessing
 ├── crop_recommendation.csv  # Dataset used for training
