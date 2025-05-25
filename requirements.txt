@@ -1,4 +1,18 @@
-streamlit
+
+Python
+
+Scikit-learn
+
 numpy
-pandas
-scikit-learn
+
+Pandas
+
+Streamlit
+
+Pickle
+
+HTML/CSS (for styling inside Streamlit)
+
+Multilingual logic with Python dictionaries
+
+
