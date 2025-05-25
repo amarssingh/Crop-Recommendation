@@ -11,7 +11,7 @@ Streamlit
 
 Pickle
 
-HTML/CSS (for styling inside Streamlit)
+HTML & CSS (for styling inside Streamlit)
 
 Multilingual logic with Python dictionaries
 
