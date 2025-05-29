@@ -40,9 +40,9 @@ This project helps farmers choose the most suitable crop based on soil and clima
 
 ## 📊 Model Info
 
-Algorithm Used: Can be Random Forest, Decision Tree, etc. (based on your training)  
+Algorithm Used: Random Forest  
 
-Accuracy: Achieved high classification accuracy on test data  
+Accuracy: Achieved high classification accuracy on test data (0.9954545454545455) 
 
 Trained on real-world dataset with 22 crop labels including:  
 
@@ -55,7 +55,7 @@ Rice, Maize, Jute, Cotton, Coconut, Papaya, Orange, Apple, Muskmelon, Watermelon
 **Clone the repository:**  
 
 ```bash
-git clone https://github.com/yourusername/crop-recommendation-app.git
+git clone https://github.com/amarssingh/Crop-Recommendation-app.git
 cd crop-recommendation-app
 ```
 
